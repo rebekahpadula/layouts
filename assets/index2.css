@@ -28,7 +28,7 @@
 	height: 660px;
 	float: left;
 	padding: 12.5px;
-	background-color: blue;
+	background-color: #00bdf7;
 }
 
 .columns {
@@ -40,21 +40,21 @@
 	float: left;
 	height: 330px;
 	width: 180px;
-	background: purple;
+	background: #8f75be;
 }
 
 .orange {
 	float: left;
 	height: 330px;
 	width: 180px;
-	background: orange;
+	background: #fe5000;
 }
 
 .green {
 	float: left;
 	height: 330px;
 	width: 180px;
-	background: green;
+	background: #00c344;
 }
 
 .yellow {
@@ -72,7 +72,7 @@
 	float: left;
 	height: 320px;
 	width: 540px;
-	background: pink;
+	background: #ff86bf;
 	margin-top: 12.5px;
 	margin-bottom: 12.5px;
 }
