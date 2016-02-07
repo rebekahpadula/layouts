@@ -62,7 +62,7 @@
 
 .yellow {
 	height: 685px;
-	width: 310px;
+	width: 320px;
 	background: yellow;
 	float: right;
 }
@@ -78,7 +78,7 @@
 	background: pink;
 	margin-top: 12.5px;
 	margin-bottom: 12.5px;
-	margin-left: 12.5px;
+	
 }
 
 .bottomred {
