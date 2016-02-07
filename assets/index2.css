@@ -23,12 +23,20 @@
 
 }
 
-.littlebox {
-	background-color: blue;
-	padding: 12.5px;
+.leftboxes {
 	width: 580px;
 	height: 660px;
 	float: left;
+}
+
+.boxpadding {
+	padding: 12.5px;
+	background-color: blue;
+}
+
+.columns {
+	margin-bottom: 10px;
+	width: 580px;
 }
 
 .purple {
@@ -54,7 +62,7 @@
 
 .yellow {
 	height: 685px;
-	width: 295px;
+	width: 310px;
 	background: yellow;
 	float: right;
 }
@@ -65,10 +73,12 @@
 
 .pink {
 	float: left;
-	height: 340px;
-	width: 580px;
+	height: 330px;
+	width: 540px;
 	background: pink;
 	margin-top: 12.5px;
+	margin-bottom: 12.5px;
+	margin-left: 12.5px;
 }
 
 .bottomred {
