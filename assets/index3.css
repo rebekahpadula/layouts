@@ -1,0 +1,96 @@
+.container {
+	width: 900px;
+	height: 1000px;
+	margin: auto;
+	background: #ccc;
+}
+
+.header {
+	background-color: red;
+	height: 105px;
+	width: 900px;
+	margin-bottom: 10px;
+}
+
+.blue {
+	height: 400px;
+	width: 580px;
+	float: left;
+	background: #3caef0;
+	margin-bottom: 15px
+}
+
+.orange {
+	height: 370px;
+	width: 290px;
+	float: left;
+	background: #e74e25;
+	margin-left: 15px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.yellowborder{
+	height: 400px;
+	width: 320px;
+	float: left;
+	background: yellow;
+	margin-bottom: 15px;
+}
+
+.tr {
+	height: 370px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	width: 285px;
+}
+
+.purple {
+	background: #7667ae;
+	margin-left: 15px;
+	float: left;
+	width: 145px;
+}
+
+.green {
+	background: #4aaf39;
+	margin-right: 15px;
+	float: right;
+	width: 145px;
+}
+
+.clear {
+	clear: both;
+}
+
+
+.insidepink {
+	width: 900px;
+	height: 350px;
+	background: #eb7fb4;
+}
+
+.blpurple {
+	width: 435px;
+	height: 320px;
+	background: #7667ae;
+	float: left;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+
+.blgreen {
+	width: 435px;
+	height: 320px;
+	background: #4aaf39;
+	float: left;
+	margin-right: 15px;
+	margin-top: 15px;
+}
+
+.footer {
+	width: 900px;
+	height: 105px;
+	background: red;
+	margin-top: 15px;
+}
