@@ -18,7 +18,7 @@
 
 .red {
 	margin-bottom: 10px;
-    height: 100px;
+    height: 105px;
     background: red;
 
 }
@@ -29,8 +29,7 @@
 	padding: 20px;
 	background-color: #00bdf7;
 	float: left;
-	padding: 20px;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 .purple {
@@ -78,6 +77,6 @@
 
 .bottomred {
 	background: red;
-	height: 100px;
+	height: 105px;
 	margin-top: 10px;
 }
