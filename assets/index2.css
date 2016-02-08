@@ -2,7 +2,7 @@
     background-color: #ccc;
     width: 900px;
     margin: 0 auto;
-    height: 900px;
+    height: 1000px;
     font-size: 0px;
 
 }
@@ -29,6 +29,8 @@
 	padding: 20px;
 	background-color: #00bdf7;
 	float: left;
+	padding: 20px;
+	margin-bottom: 20px;
 }
 
 .purple {
